@@ -4,3 +4,6 @@
 - branch1 : Mathieu Bertin / @Makun09
 - branch2 : Yann Cordonnier / @Tripticon84
 - branch3 : Satya Boussard / @Satya-Boussard
+
+
+Bonus Ruleset fait
